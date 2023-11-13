@@ -6,3 +6,4 @@ Help evaluate tackling tactics and strategy
 Данные предоставляются командой NFL Next Gen Stats.     
 Столбец pff_missedTackles в данных предоставлен Pro Football Focus.   
 
+![Текст описания](inbox_Increasing Dir and O.png)
